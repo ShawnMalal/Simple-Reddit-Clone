@@ -1,13 +1,3 @@
-/**
- * Name: Shawn Malal
- * Email: smalal@ucsd.edu
- * PID: A127420444
- * Sources used: JDK documentation, Lecture notes
- * 
- * This file is used to edit things for the user, such as 
- * adding posts, editing their karma, upvoting and downvoting
- * their posts, etc. 
- */
 
 //These are the imports
 import java.util.ArrayList;
