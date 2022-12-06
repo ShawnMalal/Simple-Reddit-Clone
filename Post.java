@@ -1,16 +1,4 @@
 
-/**
- * Name: Shawn Malal
- * Email: smalal@ucsd.edu
- * PID: A127420444
- * Sources used: JDK documentation, Lecture notes
- * 
- * This file is used to create an object which is a reddit-like post.
- * There are necessary methods and contstructors to edit things like 
- * the number of upvotes on the post, downvotes on the post, an entire
- * thread of posts and comments, etc.
- */
-
 //These are the imports
 import java.util.ArrayList;
 
